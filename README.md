@@ -27,7 +27,7 @@ Hello there! I'm Digital Humanities student with the purpose of learning as much
 
 <h2>⚡ Stats<h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsynzd14)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsynzd14&show_icons=true&theme=dark)
 
 <br />
 

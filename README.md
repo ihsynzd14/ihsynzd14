@@ -27,12 +27,12 @@ Hello there! I'm Digital Humanities student with the purpose of learning as much
 
 <h2>⚡ Stats<h2>
 
-![ihsynzd14's Stats](https://github-readme-stats.vercel.app/api?username=ihsynzd14&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![ihsynzd14's Stats](https://github-readme-stats.vercel.app/api?username=ihsynzd14&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
 <br />
 
-![ihsynzd14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsynzd14&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![ihsynzd14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsynzd14&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 <br />
 
-![ihsynzd14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihsynzd14&theme=dark&hide_border=false)
+![ihsynzd14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihsynzd14&theme=chartreuse-dark&hide_border=true)

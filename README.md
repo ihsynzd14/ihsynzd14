@@ -27,8 +27,12 @@ Hello there! I'm Digital Humanities student with the purpose of learning as much
 
 <h2>⚡ Stats<h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsynzd14&show_icons=true&theme=dark)
+![ihsynzd14's Stats](https://github-readme-stats.vercel.app/api?username=ihsynzd14&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsynzd14&layout=compact&langs_count=8&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![ihsynzd14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsynzd14&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+<br />
+
+![ihsynzd14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihsynzd14&theme=dark&hide_border=false)

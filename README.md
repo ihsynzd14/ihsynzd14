@@ -1,6 +1,6 @@
 # 🌌 Iskandar Huseynzade
  
-**`Developer (Web Developer/Front-End Developer/Designer)`**
+**`Developer (Back-End Developer/Front-End Developer/Designer)`**
 
 Hello there! I'm Digital Humanities student with the purpose of learning as much as I can to have the ability to provide and help the entire world with technology advancing projects/products. I'm currently working on personal projects and improving on everything Front-End and Back-End related.
 

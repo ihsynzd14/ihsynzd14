@@ -6,8 +6,9 @@ Hello there! I'm Digital Humanities student with the purpose of learning as much
 
 <h2>🧰 Languages and Tools</h2>
 
-<img align="left" alt="react" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img align="left" alt="astro" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img align="left" alt="react" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="nextjs" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="astro" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
 <img align="left" alt="Flutter" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" />
 <img align="left" alt="React" width="32px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />

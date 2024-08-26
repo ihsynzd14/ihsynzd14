@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Digital Humanities Student & Aspiring Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iskandar-huseynzade-8670682b4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/ihsynzd14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://portfolio-ihsynzd14s-projects.vercel.app/)
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to create impactful projects and advance the field of Digital Humanities.
 
@@ -30,12 +30,15 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to crea
 #### Back-End
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 #### Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 #### Other Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -50,19 +53,19 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to crea
 
 ### 🌟 Featured Projects
 
-1. [Project Name](https://github.com/yourusername/project1)
+1. [Coming Project #1](https://xenithsoft.com/)
    - Brief description of the project
    - Tech stack used
 
-2. [Another Project](https://github.com/yourusername/project2)
+2. [Coming Project #2](https://xenithsoft.com/)
    - Brief description of the project
    - Tech stack used
 
 ### 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/iskandar-huseynzade-8670682b4/)
+- Email: ihsynzd@hotmail.com
+- Portfolio: [Your Portfolio](https://portfolio-ihsynzd14s-projects.vercel.app/)
 
 ---
 

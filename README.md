@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to crea
 
 - LinkedIn: [Iskandar Huseynzade](https://www.linkedin.com/in/iskandar-huseynzade-8670682b4/)
 - Email: ihsynzd@hotmail.com
-- Portfolio: [Your Portfolio](https://portfolio-ihsynzd14s-projects.vercel.app/)
+- Portfolio: [Click Me!](https://portfolio-ihsynzd14s-projects.vercel.app/)
 
 ---
 

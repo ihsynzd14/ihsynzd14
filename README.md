@@ -1,6 +1,6 @@
 # Iskandar Huseynzade
 
-## 👨‍💻 Full-Stack Developer & Data Science and Business Informatics Student
+## 👨‍💻 Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iskandar-huseynzade-8670682b4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/ihsynzd14)
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to crea
 
 ### 🚀 About Me
 
-- 🎓 Digital Humanities student
+- 🎓 Data Science and Business Informatics Student
 - 💡 Focusing on both Front-End and Back-End development
 - 🌱 Always learning and improving my skills
 - 🎯 Goal: Contribute to technology-advancing projects that benefit the world

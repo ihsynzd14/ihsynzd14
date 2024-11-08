@@ -1,6 +1,6 @@
 # Iskandar Huseynzade
 
-## 👨‍💻 Digital Humanities Student & Aspiring Developer
+## 👨‍💻 Full-Stack Developer & Data Science and Business Informatics Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iskandar-huseynzade-8670682b4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/ihsynzd14)

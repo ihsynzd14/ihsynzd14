@@ -54,20 +54,15 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to crea
 
 ### 🌟 Featured Projects
 
-1. [Coming Project #1](https://xenithsoft.com/)
-   - Brief description of the project
-   - Tech stack used
-
-2. [Coming Project #2](https://xenithsoft.com/)
-   - Brief description of the project
-   - Tech stack used
+1. Java Backend Project
+   - Brief description of the project ( will be updated )
+   - Tech stack : Java + React + Render
 
 ### 📫 Get in Touch
 
 - LinkedIn: [Iskandar Huseynzade](https://www.linkedin.com/in/iskandar-huseynzade-8670682b4/)
 - Email: ihsynzd@hotmail.com
-- Portfolio: [Click Me!](https://portfolio-ihsynzd14s-projects.vercel.app/)
-
+- Portfolio: https://portfolio-ihsynzd14s-projects.vercel.app/
 ---
 
 💡 Open to collaborations and always excited to work on innovative projects!
